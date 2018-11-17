@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="CategoryDao" class="com.itheima.e_store.dao.mysql.impl.CategoryDaoImpl"></bean>
+	<bean id="OrderDao" class="com.itheima.e_store.dao.mysql.impl.OrderDaoImpl"></bean>
+	<bean id="ProductDao" class="com.itheima.e_store.dao.mysql.impl.ProductDaoImpl"></bean>
+	<bean id="UserDao" class="com.itheima.e_store.dao.mysql.impl.UserDaoImpl"></bean>
+</beans>
